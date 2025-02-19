@@ -6,7 +6,7 @@
 3. input website url
 4. input use case example 
 
-### example input use case
+### Example input use case
 1. `klik button[type="submit"]` => for check klik action
 2. `input #email dengan fulan@gmail.com` => for check input value
 3. `cek span#name` => for check display text
